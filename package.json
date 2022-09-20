@@ -4,7 +4,7 @@
   "description": "This is a comics website",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon app.js"
   },
   "author": "Karos Chen",
   "license": "ISC",
